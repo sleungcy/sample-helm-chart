@@ -3,6 +3,16 @@ entries:
   sample-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2022-06-15T00:04:19.493365216Z"
+    description: A Helm chart for Kubernetes
+    digest: f1d9f18b24e553a553b87ac341f52fe541d7e7f6327694812ce3d310d2645f2a
+    name: sample-helm-chart
+    type: application
+    urls:
+    - https://github.com/sleungcy/sample-helm-chart/releases/download/sample-helm-chart-0.1.5/sample-helm-chart-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2022-06-15T00:00:59.124547018Z"
     description: A Helm chart for Kubernetes
     digest: 6de5bb698721351b273d0d004a65c9e912a836fad5616e3499b8edc5cb4a43be
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/sleungcy/sample-helm-chart/releases/download/sample-helm-chart-0.1.4/sample-helm-chart-0.1.4.tgz
     version: 0.1.4
-generated: "2022-06-15T00:00:59.124553818Z"
+generated: "2022-06-15T00:04:19.493374216Z"
